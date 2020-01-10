@@ -7,6 +7,7 @@ def calculate(str1):
         print(b)
 
 
+
 t=int(input())
 for i in range(t):
     n=int(input())
